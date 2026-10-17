@@ -3971,5 +3971,20 @@
       }
     ],
     "added": "2026-10-17"
+  },
+  {
+    "name": "RowSafe CLI",
+    "repo": "rowsafe/rowsafe",
+    "homepage": "https://rowsafe.sh",
+    "category": "developer-tools-cli",
+    "description": "Standalone PostgreSQL health and tuning CLI for developers, with local MCP support and no RowSafe account required.",
+    "license": "Apache-2.0",
+    "links": [
+      {
+        "label": "docs",
+        "url": "https://rowsafe.sh/docs"
+      }
+    ],
+    "added": "2026-10-17"
   }
 ]
